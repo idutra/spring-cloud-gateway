@@ -14,3 +14,7 @@ Este exemplo tem como base o guide [Building a Gateway](https://spring.io/guides
 - HTTPie: Cliente de linha de comando para chamadas http.
 - IDE Java de sua preferência
 - Httpbin.org: Site/Ferramenta de diagnóstico que converte dados de solicitação Http GET em uma resposta JSON
+
+
+## TODO
+- Escrevendo testes
