@@ -1,2 +1,2 @@
 language: java
-rmvn: ./mvnw clean install -B -V
+rmvn: mvn clean install
