@@ -19,5 +19,5 @@ Este exemplo tem como base o guide [Building a Gateway](https://spring.io/guides
 ## O que foi desenvolvido
 - Implementação do Spring Cloud Gateway
 - Implementação do Hystrix como circuitbreak
-- Implementação de exemplos de testes com WirMock e WebTesClient
+- Implementação de exemplos de testes com WireMock e WebTesClient
 - Inclusão do Travis CI
