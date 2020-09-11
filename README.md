@@ -1,6 +1,7 @@
-# spring-cloud-gateway
-Getting Started Spring Cloud   [![Build Status](https://travis-ci.com/idutra/spring-cloud-gateway.svg?token=pBXWzcXjPZgCzh36hCtw&branch=master)](https://travis-ci.com/idutra/spring-cloud-gateway)
+[![Build Status](https://travis-ci.com/idutra/spring-cloud-gateway.svg?token=pBXWzcXjPZgCzh36hCtw&branch=master)](https://travis-ci.com/idutra/spring-cloud-gateway)
 
+# spring-cloud-gateway
+Getting Started Spring Cloud   
 
 ## Construindo um Gateway
 Este exemplo tem como base o guide [Building a Gateway](https://spring.io/guides/gs/gateway/)
