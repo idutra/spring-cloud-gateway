@@ -1,2 +1,4 @@
 language: java
 rmvn: mvn clean install
+before_install:
+  - chmod + x mvnw
