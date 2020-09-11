@@ -15,6 +15,7 @@ Este exemplo tem como base o guide [Building a Gateway](https://spring.io/guides
 - IDE Java de sua preferência
 - Httpbin.org: Site/Ferramenta de diagnóstico que converte dados de solicitação Http GET em uma resposta JSON
 
-
-## TODO
-- Escrevendo testes
+## O que foi desenvolvido
+- Implementação do Spring Cloud Gateway
+- Implementação do Hystrix como circuitbreak
+- Implementação de exemplos de testes com WirMock e WebTesClient
